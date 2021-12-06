@@ -1,0 +1,22 @@
+{
+  "name": "DRestaurant",
+  "short_name": "Drestaurant",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0c1023",
+  "description": "A restaurant app.",
+  "theme_color":"black",
+  "icons": [
+    {
+      "src": "images/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+
+    },
+    {
+      "src": "images/192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ]
+}
